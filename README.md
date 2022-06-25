@@ -4,18 +4,11 @@
 - Trabalho com Back-End.
 
 ##
-
 <div align="center">
   <a href="https://github.com/Leopoldino19">
-   <div class="col-5">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Leopoldino19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   </div>
-   <div class="col-7">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldino19&layout=compact&langs_count=7&theme=dracula"/>
-   </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leopoldino19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leopoldino19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
